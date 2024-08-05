@@ -10,7 +10,9 @@
 			-->
 			
 			<class name="AlterShop.Runner.SearchRunner"/>
+			
 			<class name="AlterShop.Runner.AssetsRunner"/>
+			
 			<class name="AlterShop.Runner.ProfileRunner"/>
 
 
