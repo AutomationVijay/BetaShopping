@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="29.551" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Profile and Asset List Feature" name="TC001 - Get profile and Asset list" time="29.519">
+<system-out><![CDATA[
+Given Open AlterShop application and assets.................................passed
+When Get the asset detail...................................................passed
+Then click on creaters name.................................................passed
+And get the list of all assets..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
